@@ -21,14 +21,21 @@
 
 > **"The law belongs to the people. Federal statutes should be accessible, searchable, and understandable for every American citizen."**
 
-This project is building the **world's most comprehensive, open-source United States Code database** - transforming all 54 federal law titles into a modern, AI-ready legal knowledge system that serves researchers, developers, legal professionals, and citizens.
+**🎯 This is Phase 1 of the IuLex Open Knowledge Project** - a collaborative repository designed to be cloned, worked on, and contributed back to. We're transforming all 54 federal law titles into structured data as the foundation for future knowledge databases and graphs.
 
-### 🎯 **Our Mission**
-- **Democratize Federal Law**: Make US Code accessible to all Americans
-- **Enable Legal Innovation**: Provide structured data for legal tech development  
-- **Support Legal Research**: Create powerful tools for legal analysis
-- **Foster Government Transparency**: Promote open access to federal statutes
-- **Build Legal AI**: Enable next-generation American legal AI applications
+**📋 How to Contribute**: Clone this repository, download and process US Code titles using our automation scripts, validate data quality, and submit pull requests. This is collaborative knowledge building at scale.
+
+### 🎯 **Our Mission - Phase 1 Focus**
+- **Create Clone-able Federal Law Repository**: Build a repository anyone can clone and improve
+- **Democratize US Code Access**: Make federal law processing collaborative and transparent
+- **Prepare for Knowledge Graphs**: Structure data for future interconnected databases
+- **Enable Mass Collaboration**: Make it easy for anyone to contribute to federal law digitization
+- **Build AI-Ready Foundation**: Prepare structured data for Phase 2 knowledge systems
+
+### 🚀 **Phase 2 Vision**: After Phase 1 completion, we'll create:
+- **Federal Knowledge Databases**: Enterprise-grade PostgreSQL and graph databases
+- **Legal Intelligence Systems**: AI-powered legal research and analysis platforms
+- **Cross-Jurisdictional Knowledge Graphs**: Connections between federal, state, and international law
 
 ---
 
@@ -36,9 +43,11 @@ This project is building the **world's most comprehensive, open-source United St
 
 ### Quick Start
 ```bash
-# Clone the repository
+# Clone this collaborative federal law repository
 git clone https://github.com/yourusername/usa-code-db.git
 cd usa-code-db
+
+# This repo is designed for mass collaboration - see PROJECT_MAP.md for navigation
 
 # Download all 54 titles of US Code
 cd scripts
@@ -352,7 +361,7 @@ If this project helps you or your organization, consider:
 ## 📊 **Statistics**
 
 ```
-📈 Project Stats (Updated: 2024)
+📈 Project Stats (Updated: 2025)
 ├── 🏛️ Titles: 54 complete US Code titles (planned)
 ├── 📄 Sections: ~50,000 federal law sections (estimated)
 ├── 💾 Data: ~2.5GB of structured federal legal information
@@ -402,5 +411,5 @@ If this project helps you or your organization, consider:
 
 ---
 
-*Last updated: January 2024*
+*Last updated: August 2025*
 *Project Status: Architecture Complete - Ready for Data Acquisition*
